@@ -6,8 +6,8 @@ This repo includes PDF and ODP exports of slides used in backend trainings.
 
 ### Docker
 
-* [PDF](docker/Docker Course Slides.pdf)
-* [ODP](docker/Docker Course Slides.odp)
+* [PDF](docker/Docker%20Course%20Slides.pdf)
+* [ODP](https://github.com/hackoregon/backend-trainings/blob/master/docker/Docker%20Course%20Slides.odp)
 * [YouTube Pt.1](https://www.youtube.com/watch?v=vUhKkOdcD4g&t=1684s)
 * [YouTube Pt.2](https://www.youtube.com/watch?v=vt2jk3Am-4s&t=1747s)
 
