@@ -31,9 +31,23 @@ volunteers, and all the work we do is open source.
 
 * [PDF](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.pdf)
 * [ODP](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.odp)
-* [YouTube Pt.1](https://youtu.be/pHC6fPWXi0Q) 
+* [YouTube Pt.1](https://youtu.be/pHC6fPWXi0Q)
 * [YouTube Pt.2]() - coming soon
 
 ## Contributors:
 
 Thank you for all Backend Development Team Members who contributed to trainings as well as Participants.
+
+
+Nick A.
+Karen N.
+Stephen T.L.
+Brian G.
+Mary Anne T.
+Moss D.
+Ed B.
+
+And Special Thanks to Presenters:
+
+Brian G. (Docker, Django)
+Moss D. (PostgreSQL)
