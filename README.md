@@ -11,7 +11,7 @@ data projects that bring insight to complex issues in the public
 interest. We’re a community-powered nonprofit, our teams are made of
 volunteers, and all the work we do is open source.
 
-## Current Trainings
+## Current Trainings (May 2019)
 
 ### Docker
 
@@ -51,7 +51,7 @@ volunteers, and all the work we do is open source.
 * [PDF](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.pdf)
 * [ODP](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.odp)
 * [YouTube Pt.1](https://youtu.be/pHC6fPWXi0Q)
-* [YouTube Pt.2]() - coming soon
+* [YouTube Pt.2](https://youtu.be/LLEjilmwz8I)
 
 #### Topics:
 
