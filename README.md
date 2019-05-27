@@ -20,7 +20,7 @@ This repo includes PDF and ODP exports of slides used in backend trainings.
 
 ### Django RestFramework, API Development, and Tooling
 
-* [PDF](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.odp)
-* [ODP](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.pdf)
+* [PDF](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.pdf)
+* [ODP](django/Django%20Rest%20Framework%2C%20API%20Development%2C%20and%20Tooling.odp)
 * [YouTube Pt.1]() - coming soon
 * [YouTube Pt.2]() - coming soon
